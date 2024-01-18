@@ -1,1 +1,1 @@
-# techin510-lab1
+# TECHIN 510 Lab 1
