@@ -31,10 +31,9 @@ with col1:
 with col2:
     st.markdown(
         """
-    # Ian Chen (He/Him)
+    # Peifen Chiang (She/Her)
                 
-    - Instructor at [Lighthouse Labs](https://www.lighthouselabs.ca/)
-    - Engineer at [Clio](https://www.clio.com/)
+    - PM Intern at [UW-IT Strategy Office (PMO) ](https://www.lighthouselabs.ca/)
     """
     )
 
